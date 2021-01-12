@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Diligence Vagere's github top langs](https://github-readme-stats.vercel.app/api/top-langs?username=dvagere&show_icons=true&locale=en&layout=compact&theme=gruvbox)
+<br />
+[![Diligence Vagere's github stats](https://github-readme-stats.vercel.app/api?username=dvagere&show_icons=true&theme=radical)](https://github.com/dvagere/github-readme-stats)
+
 <!--
 **dvagere/dvagere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
